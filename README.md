@@ -16,4 +16,11 @@ Content Repository for public media files to be used in websites
 like so:  
 ```![Logo of the centre for humanities computing aarhus](https://raw.githubusercontent.com/centre-for-humanities-computing/websiteMedia/main/images/CHCAA/Logo.png)```
 
-![Logo of the centre for humanities computing aarhus](https://raw.githubusercontent.com/centre-for-humanities-computing/websiteMedia/main/images/CHCAA/Logo.png)
+![Logo of the centre for humanities computing Aarhus](https://raw.githubusercontent.com/centre-for-humanities-computing/websiteMedia/main/images/CHCAA/Logo.png)
+
+or as html with css style:
+ 
+ &lt;img alt="Logo of the centre for humanities computing Aarhus" src="https://raw.githubusercontent.com/centre-for-humanities-computing/websiteMedia/main/images/CHCAA/Logo.png" style="display: block;margin-left: auto;margin-right:auto;"/&gt;  
+ 
+<img alt="Logo of the centre for humanities computing Aarhus" src="https://raw.githubusercontent.com/centre-for-humanities-computing/websiteMedia/main/images/CHCAA/Logo.png" style="display: block;margin-left: auto;margin-right:auto;"/>
+ 
