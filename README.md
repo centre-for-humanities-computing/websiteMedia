@@ -13,7 +13,7 @@ Content Repository for public media files to be used in websites
     1. finally your url has to end with `fileName.extension` where extension must represent a browser-supported file type like `gif`, `jpg`, `jpeg`, `png`, `avi`, `mp3`, `ogg`, and [others](https://www.w3schools.com/html/html_media.asp)  
 1. reference your file in markdown following this pattern: !\[briefDescription\]\(url\)
 
-like so:  
+## Example  
 ```![Logo of the centre for humanities computing aarhus](https://raw.githubusercontent.com/centre-for-humanities-computing/websiteMedia/main/images/CHCAA/Logo.png)```
 
 ![Logo of the centre for humanities computing Aarhus](https://raw.githubusercontent.com/centre-for-humanities-computing/websiteMedia/main/images/CHCAA/Logo.png)
