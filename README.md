@@ -18,9 +18,9 @@ like so:
 
 ![Logo of the centre for humanities computing Aarhus](https://raw.githubusercontent.com/centre-for-humanities-computing/websiteMedia/main/images/CHCAA/Logo.png)
 
-or as html with css style:
+or as html with css style (removed by github, but working on the websites):
  
  &lt;img alt="Logo of the centre for humanities computing Aarhus" src="https://raw.githubusercontent.com/centre-for-humanities-computing/websiteMedia/main/images/CHCAA/Logo.png" style="display: block;margin-left: auto;margin-right:auto;"/&gt;  
  
-<img alt="Logo of the centre for humanities computing Aarhus" src="https://raw.githubusercontent.com/centre-for-humanities-computing/websiteMedia/main/images/CHCAA/Logo.png" style="display: block;margin-left: auto;margin-right:auto;"/>
+<img alt="Logo of the centre for humanities computing Aarhus" src="https://raw.githubusercontent.com/centre-for-humanities-computing/websiteMedia/main/images/CHCAA/Logo.png" style="width100%!important;display: block!important;margin-left: auto!important;margin-right:auto!important;"/>
  
